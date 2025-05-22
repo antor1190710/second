@@ -1,0 +1,24 @@
+.header{
+    height: 200px;
+    /* background-color: bisque; */
+    background-image: url("../antor.jpeg");
+    background-size: 200px;
+    background-repeat: no-repeat;
+    /* background-size: ; */
+
+
+}
+.blog{
+    background-color: aqua;
+    margin: 40px ;
+    border: 10px solid tomato;
+    padding: 10px;
+    text-decoration: justify;
+    box-shadow: 10px 10px 20px blue;
+
+}
+.fourth{
+    /* visibility: hidden; */
+    
+    display: none;
+}
